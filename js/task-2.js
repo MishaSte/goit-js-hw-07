@@ -25,7 +25,7 @@ const images = [
   },
 ];
 document
-  .querySelector('ul')
+  .querySelector('.gallery')
   .insertAdjacentHTML(
     'afterbegin',
     images
